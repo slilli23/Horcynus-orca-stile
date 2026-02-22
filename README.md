@@ -1,5 +1,5 @@
-# Horcynus-orca-ADI2025
-Repository di dati e codice per l'intervento "Esplorare l'anomalia: uno studio computazionale sullo stile di Horcynus orca", presentato al Congresso ADI 2025 - 4 sessione parallela
+# Horcynus-orca-stile
+Repository di dati e codice per l'articolo "Esplorare l'anomalia: uno studio computazionale sullo stile di Horcynus orca"
 
 **Abstract**
 Il contributo propone un approccio innovativo allo studio linguistico di Horcynus Orca, integrando lettura ravvicinata e strumenti della linguistica computazionale. L’esplorazione del testo tramite la codifica di espressioni regolari (REGEX) consente di superare l’ostacolo costituito dall’estensione e complessità del romanzo – che ha spesso imposto un approccio esemplificativo – e incoraggia una formalizzazione in linea con la «grammaticalizzazione» dell’elemento deformante riconosciuta all’autore. L’analisi si concentra, a titolo esemplificativo, su due strategie inventive: le formazioni verbali parasintetiche riflessive e i reduplicati con funzione elativa. Il confronto con repertori esistenti ha rivelato nuove occorrenze riconducibili alla creatività autoriale, confermando che l’approccio integrato tra distant e close reading garantisce un’analisi più precisa e completa, aprendo nuove possibilità interpretative.
